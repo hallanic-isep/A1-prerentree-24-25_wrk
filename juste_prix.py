@@ -2,7 +2,7 @@ import random
 cible = random.randint(1,10)
 # Triche...
 print(f"La cible est {cible}")
-
+fmqsklfsklf
 essai = int(input("Votre proposition entre 1 et 10 : "))
 
 # Debug : Affiche le type des données
